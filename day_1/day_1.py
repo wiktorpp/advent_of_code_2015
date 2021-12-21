@@ -1,0 +1,1 @@
+print(sum([{"(":1, ")": -1}[i] for i in input()]))
